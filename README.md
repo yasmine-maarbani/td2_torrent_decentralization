@@ -22,4 +22,4 @@ This project analyzes the structure and integrity of `.torrent` files by compari
 ## Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yasmine-maarbani/torrent_project.git
+   git clone https://github.com/yasmine-maarbani/td2_torrent_decentralization.git
